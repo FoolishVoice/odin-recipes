@@ -8,18 +8,12 @@ h1 {
 }
 
 a {
-    background-color: rgb(41, 26, 19);
+    background-color: rgb(153, 109, 44);
     font-size: 36px;
 }
 
-.cookies {
-    color: rgb(143, 86, 13);
-}
-
-.banana-pancakes {
-    color: rgb(224, 228, 34);
-}
-
+.cookies,
+.banana-pancakes,
 .egg-rolls {
-    color: rgb(138, 106, 19);
+    color: rgb(250, 246, 240);
 }
